@@ -1,0 +1,32 @@
+.color {
+  width: 14px;
+  height: 14px;
+  border-radius: 50%;
+}
+.swatch {
+  padding: 5px;
+  background: #fff;
+  border-radius: 50%;
+  box-shadow: 0 0 0 2px rgba(0, 0, 0, 0.2);
+  display: inline-block;
+  cursor: pointer;
+}
+.popover {
+  position: absolute;
+  z-index: 2;
+  background: none;
+  border: none;
+}
+.cover {
+  position: fixed;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  left: 0px;
+}
+.sketch-picker{
+    top: 0px;
+  right: 0px;
+  bottom: 0px;
+  left: 0px;
+}
